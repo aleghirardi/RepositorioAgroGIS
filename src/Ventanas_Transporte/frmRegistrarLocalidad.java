@@ -491,6 +491,7 @@ private void txtCodigoPostalKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:e
         btnNuevo.setEnabled(false);
         txtLocalidad.setEnabled(false);
         btnAceptarEdicion.setEnabled(true);
+        System.out.println("");
     }//GEN-LAST:event_btnEditarProvinciaActionPerformed
 
     private void btnNuevoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnNuevoActionPerformed
